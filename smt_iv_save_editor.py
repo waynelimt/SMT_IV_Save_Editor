@@ -2481,7 +2481,7 @@ class mytestapp(tk.Tk):
                 skill_id = self.getHexStr(self.save_bytes, MC_SKILL[0], MC_SKILL[1], counter)
                 # skill.append(skill_id)
                 self.mcValues["skills"][x].set(skill_id)
-                print_n(skill_id)
+                print_str += skill_id
                 counter += 2
             print("Skills: " + print_str)
             # print(str(skill))
