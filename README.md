@@ -2,14 +2,14 @@
 Save editor for Shin Megami Tensei IV
 
 This is a save editor for Shin Megami Tensei IV, made in Python 3. Tested 100% working in Windows.
-<br/><br/>
-Installation:
+<br/><br/><br/>
+<b><u>Installation:</u></b>
 No installation needed for this. 
 <br/><br/>
-For Windows:
+<b><u>For Windows:</u></b>
 Just install Python 3 for Windows (https://www.python.org/downloads/, v3.5.2 at time of writing) with the default settings on. After that, you can just double click on the .py script and it should automatically launch the script with the installed python interpreter.
 <br/><br/>
-For Linux (Ubuntu):
+<b><u>For Linux (Ubuntu):</u></b>
 Newer versions of Ubuntu (14.04 LTS & above) should come with Python 3 installed. Firstly, make the script executable, by typing the following in a terminal: <b>chmod a+x <path to script>/smt_iv_apocalypse_save_editor.py</b>
 <br/>
 *Replace <path to script> with the path to the script itself.
