@@ -1,5 +1,5 @@
 # SMT_IV_Save_Editor
-Save editor for Shin Megami Tensei IV
+Save editor for Shin Megami Tensei IV (US Version)
 
 This is a save editor for Shin Megami Tensei IV, made in Python 3. Tested 100% working in Windows.
 <br/><br/><br/>
